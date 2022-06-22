@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhsin Shah
 - 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning ROR
+- 🌱 I’m currently learning NestJS
 - 💞️ I’m looking to collaborate on Fullstack projects
 - 📫 How to reach me :point_right: Follow me through [Twitter](https://twitter.com/MuhsinS07857838?s=09) or Connect me on [LinkedIn](https://www.linkedin.com/in/shah21/)
 
